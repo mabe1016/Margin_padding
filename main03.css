@@ -1,0 +1,13 @@
+/* Agrega aqui tu CSS */
+.caja{
+	border-style: solid ;
+	border-color: red;
+	margin: 0px;
+	padding: 5px;
+	display: block;
+	width: 280px;
+	height: 280px;
+	display: block;
+	margin: 0px;
+	
+}
